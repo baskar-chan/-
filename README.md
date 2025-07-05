@@ -70,7 +70,7 @@
   <script>
     setTimeout(function () {
       window.location.href = "https://eitaa.com/joinchat/2943550360Cbc20b14b09";
-    }, 3000); <!-- تغییر زمان به ۳ ثانیه (3000 میلی‌ثانیه) -->
+    }, 4000); <!-- تغییر زمان به ۳ ثانیه (4000 میلی‌ثانیه) -->
   </script>
 
 </body>
